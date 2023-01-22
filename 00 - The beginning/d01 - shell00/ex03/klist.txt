@@ -1,0 +1,5 @@
+klist: No credentials cache found (filename: /tmp/krb5cc_1000)
+
+I'm not a École 42 real student, I'm an autonomous student so i can't get a valid klist.
+
+To create this file I used klist 2> ex03/klist.txt (2 get the error) 
